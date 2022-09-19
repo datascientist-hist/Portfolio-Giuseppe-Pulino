@@ -50,6 +50,18 @@ I would like to find useful differences between the performance of teams in the 
 
 # [Project 1: Spam email Classification](https://github.com/datascientist-hist/Spam_Messages_Classification)
 
-In this project i built an email classifier to identify if a given email is spam or not
+# Email Spam Classification
 
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+
+
+<img src="/images/email-spam.png" align="left" width="200" />
+
+## Goal
+
+The aim of this project is to classify emails into spam and ham emails.  
+To do this I will use the frequencies method that will count  how many different words there are in a sentence after that I will choose a number of relevant words.[Below I will expalin better the method]((https://github.com/datascientist-hist/Spam_Messages_Classification)
+
+<br clear="left"/>
+
+## Results
+
