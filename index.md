@@ -38,9 +38,8 @@ I would like to find useful differences between the performance of teams in the 
 
 **Results**
 
- Metrics table                                                    | Tuned Random Forest Misclassification table
-:----------------------------------------------------------------:|:-------------------------:
-|Model|Accuracy|Precision Score Over 2.5|Precision Score Under 2.5|![](/images/confmatrixtest.png)
+ 
+|Model|Accuracy|Precision Score Over 2.5|Precision Score Under 2.5|
 |-----|--------|------------------------|-------------------------|
 |Bookmaker|61.46%|60.00%|66.66%|
 |Random Forest| 60.55%| 66.66%|55.73%|
