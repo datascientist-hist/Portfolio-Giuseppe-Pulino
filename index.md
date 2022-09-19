@@ -50,7 +50,7 @@ I would like to find useful differences between the performance of teams in the 
 
 # [Project 1: Spam email Classification](https://github.com/datascientist-hist/Spam_Messages_Classification)
 
-![](/images/email-spam.png)
+![](/images/email-spam.png) |
 
 ## Goal
 
