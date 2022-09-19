@@ -39,19 +39,25 @@ I would like to find useful differences between the performance of teams in the 
 
 **Results**
 
-|Model|Accuracy|Precision Score Over 2.5|Precision Score Under 2.5|
-|-----|--------|------------------------|-------------------------|
-|Bookmaker|61.46%|60.00%|66.66%|
-|Random Forest| 60.55%| 66.66%|55.73%|
-|Tuned Randome Forest|60.55%|68.18%|55.38%|
-
-
-![](/images/confmatrixtest.png)
-
+ ![](/images/tablemtrics.JPG)  
+ 
+ ![](/images/confmatrixtest.png)
+ 
 
 # [Project 1: Spam email Classification](https://github.com/datascientist-hist/Spam_Messages_Classification)
 
-In this project i built an email classifier to identify if a given email is spam or not
 
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+
+**Goal**
+
+The aim of this project is to classify emails into spam and ham emails.  
+To do this I will use the frequencies method that will count  how many different words there are in a sentence after that I will choose a number of relevant words.[Below I will expalin better the method](https://github.com/datascientist-hist/Spam_Messages_Classification)
+
+
+**Results**
+
+Feature Importance         |  Misclassification table
+:-------------------------:|:-------------------------:
+ ![](/images/featureimportance.png)  |   ![](/images/misclassification.png)
+
 
