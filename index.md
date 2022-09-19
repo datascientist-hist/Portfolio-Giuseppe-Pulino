@@ -38,11 +38,13 @@ I would like to find useful differences between the performance of teams in the 
 
 **Results**
 
-|Model|Accuracy|Precision Score Over 2.5|Precision Score Under 2.5|
+ Metrics table                                                    | Tuned Random Forest Misclassification table
+:----------------------------------------------------------------:|:-------------------------:
+|Model|Accuracy|Precision Score Over 2.5|Precision Score Under 2.5|![](/images/confmatrixtest.png)
 |-----|--------|------------------------|-------------------------|
 |Bookmaker|61.46%|60.00%|66.66%|
 |Random Forest| 60.55%| 66.66%|55.73%|
-|Tuned Randome Forest|60.55%|68.18%|55.38%|
+|Tuned Random Forest|60.55%|68.18%|55.38%|
 
 
 ![](/images/confmatrixtest.png)
@@ -50,7 +52,7 @@ I would like to find useful differences between the performance of teams in the 
 
 # [Project 1: Spam email Classification](https://github.com/datascientist-hist/Spam_Messages_Classification)
 
-![](/images/email-spam.png) |
+
 
 ## Goal
 
