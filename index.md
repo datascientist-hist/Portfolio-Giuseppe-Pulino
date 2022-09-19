@@ -38,10 +38,9 @@ I would like to find useful differences between the performance of teams in the 
 
 **Results**
 
-
- Metrics Table             |  Tuned Random Forest Misclassification table
-:-------------------------:|:-------------------------:
- ![](/images/tablemtrics.JPG)  |   ![](/images/confmatrixtest.png)
+ ![](/images/tablemtrics.JPG)  
+ 
+ ![](/images/confmatrixtest.png)
  
 
 # [Project 1: Spam email Classification](https://github.com/datascientist-hist/Spam_Messages_Classification)
