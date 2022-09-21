@@ -1,9 +1,9 @@
 # Data Science Projects
-# [Project 4: Foliar Diseases Classification](https://github.com/datascientist-hist/Foliar-Diseases-Classification)
+# [Project 4: Bitcoin Price Prediction using LSTM](https://github.com/datascientist-hist/Bitcoin-Price)
 
 **Goal**
 
-Identify the category of foliar diseases in apple trees
+In this projects, I'll attempt to predict next day prices based on features of previous day using machine learning & deep learning
 
 **Status**
 
@@ -52,6 +52,8 @@ To do this I will use the frequencies method that will count  how many different
 
 
 **Results**
+
+![](/images/spamwords.png)
 
 Feature Importance         |  Misclassification table
 :-------------------------:|:-------------------------:
