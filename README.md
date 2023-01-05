@@ -55,7 +55,6 @@ To do this I will use the frequencies method that will count  how many different
 
 
 **Results**
-![](/images/spamwords.png)
 Feature Importance         |  Misclassification table
 :-------------------------:|:-------------------------:
  ![](/images/featureimportance.png)  |   ![](/images/misclassification.png)
