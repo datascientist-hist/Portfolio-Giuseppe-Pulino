@@ -21,6 +21,7 @@ The problem that  I am designing is a **classification** problem, the environmen
 <p align="center">
   <img width="700"src="/images/Original-ResNet-18-Architecture.png">
 </p>
+
 # [Project 4: Bitcoin Price Prediction using LSTM](https://github.com/datascientist-hist/Bitcoin-Price)
 
 **Goal**
