@@ -14,12 +14,12 @@ The problem that  I am designing is a **classification** problem, the environmen
 - Wine 
 - Plastic
 - Water
-[Below I will expalin better the method](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
+[Below I will expalin better the method](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
 **Neural Network used ResNet-18**
 <p align="center">
-  <img width="400"src="/images/Original-ResNet-18-Architecture.png">
+  <img width="700"src="/images/Original-ResNet-18-Architecture.png">
 </p>
 # [Project 4: Bitcoin Price Prediction using LSTM](https://github.com/datascientist-hist/Bitcoin-Price)
 
