@@ -19,7 +19,7 @@ The problem that  I am designing is a **classification** problem, the environmen
 
 **Neural Network used ResNet-18**
 <p align="center">
-  <img width="400"src="/images/resnet.png">
+  <img width="400"src="/images/Original-ResNet-18-Architecture.png">
 </p>
 # [Project 4: Bitcoin Price Prediction using LSTM](https://github.com/datascientist-hist/Bitcoin-Price)
 
