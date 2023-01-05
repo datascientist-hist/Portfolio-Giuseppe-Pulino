@@ -1,4 +1,26 @@
 # Data Science Projects
+
+# [Project 5: Bottles Synthetic Images Classification](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
+
+
+
+**Problem Designing**
+
+The problem that  I am designing is a **classification** problem, the environment that i will use is  MatLab.The  goal is to classify an image containing a bottle  among the following classes of bottles:
+
+- Soda 
+- Beer 
+- Wine 
+- Plastic
+- Water
+
+[Below I will expalin better the method](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
+
+**Neural Network used ResNet-18**
+<p align="center">
+  <img width="700"src="/images/Original-ResNet-18-Architecture.png">
+</p>
+
 # [Project 4: Bitcoin Price Prediction using LSTM](https://github.com/datascientist-hist/Bitcoin-Price)
 
 **Goal**
