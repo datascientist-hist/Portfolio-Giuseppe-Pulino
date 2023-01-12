@@ -22,13 +22,14 @@ The problem that  I am designing is a **classification** problem, the environmen
   <img width="700"src="/images/Original-ResNet-18-Architecture.png">
 </p>
 
-# [Project 4: Water potability prediction in Python](https://github.com/datascientist-hist/Bitcoin-Price)
-**Accademic Project**
-## Project explanation
+# [Project 4: Water potability prediction in Python]([https://github.com/datascientist-hist/Bitcoin-Price](https://github.com/datascientist-hist/Water-potability-prediction-in-python))
+
+## Project explanation [**Accademic Project**]
 The objective of this project is to analyze and predict, through the use of supervised and unsupervised machine learning methods, the potability of water from data in the 'drinking water potability' dataset.The project is divided in 3 parts:
 - **EDA**
 - **Model-building phase**
 - **Evaluation phase**
+- 
 # [Project 3: Crimes in Italy Dashboard](https://github.com/datascientist-hist/Crimes-in-Italy-Dashboard) 
 
 **Project done with my colleague  Orazio Pontorno**
