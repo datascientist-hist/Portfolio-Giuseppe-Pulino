@@ -20,15 +20,14 @@ The problem that  I am designing is a **classification** problem, the environmen
 
   ![](/images/Original-ResNet-18-Architecture.png)
 
-# [Project 4: Bitcoin Price Prediction using LSTM](https://github.com/datascientist-hist/Bitcoin-Price)
+# [Project 4: Water potability prediction in Python](https://github.com/datascientist-hist/Water-potability-prediction-in-python)
 
-**Goal**
+## Project explanation [**Accademic Project**]
+The objective of this project is to analyze and predict, through the use of supervised and unsupervised machine learning methods, the potability of water from data in the 'drinking water potability' dataset.The project is divided in 3 parts:
+- **EDA**
+- **Model-building phase**
+- **Evaluation phase**
 
-In this projects, I'll attempt to predict next day prices based on features of previous day using machine learning & deep learning
-
-**Status**
-
-Work in Progress
 
 # [Project 3: Crimes in Italy Dashboard](https://github.com/datascientist-hist/Crimes-in-Italy-Dashboard) 
 
