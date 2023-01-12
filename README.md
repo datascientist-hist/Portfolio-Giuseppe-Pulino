@@ -29,7 +29,7 @@ The objective of this project is to analyze and predict, through the use of supe
 - **EDA**
 - **Model-building phase**
 - **Evaluation phase**
-- 
+
 # [Project 3: Crimes in Italy Dashboard](https://github.com/datascientist-hist/Crimes-in-Italy-Dashboard) 
 
 **Project done with my colleague  Orazio Pontorno**
