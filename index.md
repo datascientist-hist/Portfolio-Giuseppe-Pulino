@@ -3,10 +3,8 @@
 # [Project 5: Bottles Synthetic Images Classification](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
 
-
-**Problem Designing**
-
-The problem that  I am designing is a **classification** problem, the environment that i will use is  MatLab.The  goal is to classify an image containing a bottle  among the following classes of bottles:
+**Description**
+The  goal of this project is to classify an image containing a bottle among the following classes of bottles using Matlab Environment:
 
 - Soda 
 - Beer 
@@ -14,7 +12,8 @@ The problem that  I am designing is a **classification** problem, the environmen
 - Plastic
 - Water
 
-[Below I will expalin better the method](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
+The Convolutional Neural Network that I used is called ResNet-18
+[Here the whole project](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
 **Neural Network used ResNet-18**
 
