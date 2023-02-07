@@ -1,13 +1,11 @@
-Check out the minimal portfolio at https://datascientist-hist.github.io/Portfolio-Giuseppe-Pulino/
 # Data Science Projects
 
 # [Project 5: Bottles Synthetic Images Classification](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
 
+## **Description**[Accademic Project]
 
-**Problem Designing**
-
-The problem that  I am designing is a **classification** problem, the environment that i will use is  MatLab.The  goal is to classify an image containing a bottle  among the following classes of bottles:
+The  goal of this project is to classify an image containing a bottle among the following classes of bottles training a CNN in Matlab Environment:
 
 - Soda 
 - Beer 
@@ -15,24 +13,29 @@ The problem that  I am designing is a **classification** problem, the environmen
 - Plastic
 - Water
 
-[Below I will expalin better the method](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
+The Convolutional Neural Network that I used is called ResNet-18
+
+[Here the whole project](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
 **Neural Network used ResNet-18**
-<p align="center">
-  <img width="700"src="/images/Original-ResNet-18-Architecture.png">
-</p>
+
+  ![](/images/Original-ResNet-18-Architecture.png)
 
 # [Project 4: Water potability prediction in Python](https://github.com/datascientist-hist/Water-potability-prediction-in-python)
 
 ## Project explanation [**Accademic Project**]
-The objective of this project is to analyze and predict, through the use of supervised and unsupervised machine learning methods, the potability of water from data in the 'drinking water potability' dataset.The project is divided in 3 parts:
+The goal of this project is to analyze and predict, through the use of  unsupervised and supervised machine learning methods, the potability of water from data in the 'drinking water potability'dataset.The project has been divided in 3 parts:
+
 - **EDA**
 - **Model-building phase**
 - **Evaluation phase**
 
+[Here the whole project](https://github.com/datascientist-hist/Water-potability-prediction-in-python)
+
 # [Project 3: Crimes in Italy Dashboard](https://github.com/datascientist-hist/Crimes-in-Italy-Dashboard) 
 
-**Project done with my colleague  Orazio Pontorno**
+## **Description**[**Accademic Project**]
+In these Dashboards realized in Tableau Desk, I showed how crimes in Italy are distributed and also how they are related to Unemployment,Economic and Education rates.
 
 The first Dashboard focuses on the distribution of crimes in Italy
 
@@ -43,13 +46,13 @@ The first Dashboard focuses on the distribution of crimes in Italy
 
 # [Project 2: Soccer Results Classification](https://github.com/datascientist-hist/Football-Results-classification) 
 
-**Goal**
+## **Description**
 
 *Championship used Serie A Year 2021/2022*
 
-The aim of this project is to try to classify if a game is going to end with a number of goal greater than 2, to carry out this task i will download a dataset where are present a lot of features as number of goal,team names and stats related to matches, are also present the odds provided by bookmaker BET365 that can be converted into probabilities and can be used as referencee point ,but my purpose would be beating those odds.
+The aim of this project is to try to classify if a game is going to end with a number of goal greater than 2, to carry out this task i  downloaded a dataset where are present a lot of features as number of goal,team names and stats related to matches, are also present the odds provided by bookmaker BET365 that can be converted into probabilities and can be used as referencee point ,but my purpose would be beating those odds.
 
-The strategy that i want to adopt is based on goals scored and goals conceded:
+The strategy that I adopted is based on goals scored and goals conceded:
 
 - I will compute the average goals scored and conceded for each team from all the previous matches
 
@@ -61,20 +64,20 @@ I would like to find useful differences between the performance of teams in the 
 
  ![](/images/tablemtrics.JPG)  
  
- ![](/images/confmatrixtest.png)
- 
 
 # [Project 1: Spam email Classification](https://github.com/datascientist-hist/Spam_Messages_Classification)
 
-
-
-**Goal**
+**Description**
 
 The aim of this project is to classify emails into spam and ham emails.  
-To do this I will use the frequencies method that will count  how many different words there are in a sentence after that I will choose a number of relevant words.[Below I will expalin better the method](https://github.com/datascientist-hist/Spam_Messages_Classification)
+To do this I used the frequencies method that count  how many different words there are in a sentence after that I will choose a number of relevant words.
+[Here the whole project](https://github.com/datascientist-hist/Spam_Messages_Classification)
 
 
 **Results**
+
+![](/images/spamwords.png)
+
 Feature Importance         |  Misclassification table
 :-------------------------:|:-------------------------:
  ![](/images/featureimportance.png)  |   ![](/images/misclassification.png)
