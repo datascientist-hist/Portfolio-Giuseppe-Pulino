@@ -3,9 +3,10 @@
 # [Internship Project 6: Data Pipeline using Talend and Airflow](https://github.com/datascientist-hist/Data-Pipeline)
 In this project, the goal was to process weather data from 185 weather stations in Sicily. The data includes precipitation (in millimeters) and temperature (in degrees Celsius). Each weather station generates two CSV files at the end of each day, one for temperature and one for precipitation. The files contain measurements taken at a minimum interval of 5 minutes. The project involved using Talend Open Studio for Big Data and Apache Airflow to design and implement a pipeline.
 
+The pipeline collects the files, stores them in a raw data storage, extracts the data, and associates it with each specific weather station, creating separate tables for precipitation and temperature. The files are validated based on file name format, file content format (header and data columns), and data consistency. Valid files are then archived, loaded into a raw data database, and undergo correction and enrichment processes. Errors and out-of-scale values are corrected by applying an algorithm that replaces them with the last valid value received. Additionally, a lookup table is used to associate each weather station with a specific zone, and the enriched data is saved in a valid data database.
+
 **Architectural Diagram**
-
-
+![](images/pipeline_architettura.jpg)
 
 [Here the whole project](https://github.com/datascientist-hist/Data-Pipeline)
 
