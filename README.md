@@ -1,5 +1,13 @@
 # [Data Science Projects](https://datascientist-hist.github.io/Portfolio-Giuseppe-Pulino/)
 
+# [Internship Project 6: Data Pipeline using Talend and Airflow](https://github.com/datascientist-hist/Data-Pipeline)
+In this project, the goal was to process weather data from 185 weather stations in Sicily. The data includes precipitation (in millimeters) and temperature (in degrees Celsius). Each weather station generates two CSV files at the end of each day, one for temperature and one for precipitation. The files contain measurements taken at a minimum interval of 5 minutes. The project involved using Talend Open Studio for Big Data and Apache Airflow to design and implement a pipeline.
+
+**Architectural Diagram**
+
+
+
+[Here the whole project](https://github.com/datascientist-hist/Data-Pipeline)
 
 # [Project 5: Bottles Synthetic Images Classification](https://github.com/datascientist-hist/Bottles-Synthetic-Images-Classification)
 
